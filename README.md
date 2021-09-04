@@ -12,3 +12,5 @@
 
 - npm init
 - npm install <packagename>
+
+3. node server
