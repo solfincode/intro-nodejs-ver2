@@ -14,3 +14,8 @@
 - npm install <packagename>
 
 3. node server
+
+- create server using pure nodejs
+- create server using express
+
+4. test
